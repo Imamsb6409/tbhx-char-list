@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "peringkat": "2",
+    "name": "Character One",
+    "description": "This is the first character.",
+    "image": "https://via.placeholder.com/150",
+    "power": "Invisibility"
+  },
+  {
+    "id": 2,
+    "peringkat": "1",
+    "name": "Character Two",
+    "description": "This is the second character.",
+    "image": "https://via.placeholder.com/150",
+    "power": "Super Strength"
+  },
+  {
+    "id": 3,
+    "peringkat": "3",
+    "name": "Character Three",
+    "description": "This is the third character.",
+    "image": "https://via.placeholder.com/150",
+    "power": "Flight"
+  }
+]
