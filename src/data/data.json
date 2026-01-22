@@ -1,26 +1,82 @@
 [
   {
     "id": 1,
-    "peringkat": "2",
-    "name": "Character One",
-    "description": "This is the first character.",
-    "image": "https://via.placeholder.com/150",
-    "power": "Invisibility"
+    "peringkat": "1",
+    "name": "Hero X",
+    "description": "Hero terkuat, bisa mengubah hukum dunia sesuka hati.",
+    "image": "../assets/X.jpg",
+    "power": "manipulasi realitas & dimensi"
   },
   {
     "id": 2,
-    "peringkat": "1",
-    "name": "Character Two",
-    "description": "This is the second character.",
-    "image": "https://via.placeholder.com/150",
-    "power": "Super Strength"
+    "peringkat": "2",
+    "name": "Queen",
+    "description": "Hero wanita karismatik dan aura kepemimpinannya sangat kuat.",
+    "image": "../assets/Quen.jpg",
+    "power": "kekuatan fisik luar biasa dan dominasi"
   },
   {
     "id": 3,
     "peringkat": "3",
-    "name": "Character Three",
-    "description": "This is the third character.",
-    "image": "https://via.placeholder.com/150",
-    "power": "Flight"
+    "name": "Dragon Boy",
+    "description": "Petarung frontal yang mengandalkan kekuatan murni.",
+    "image": "../assets/Dragonboy.jpg",
+    "power": "super strength & daya tahan tinggi"
+  },
+  {
+    "id": 4,
+    "peringkat": "4",
+    "name": "Ghost Blade",
+    "description": "Hero dingin dan misterius, spesialis duel jarak dekat.",
+    "image": "../assets/Ghostblade.jpg",
+    "power": "keahlian pedang ekstrem dan kecepatan"
+  },
+  {
+    "id": 5,
+    "peringkat": "5",
+    "name": "The Johnnies",
+    "description": "Duo hero komedi dengan kekuatan tak terduga.",
+    "image": "../assets/LittleJohnny.jpg",
+    "power": "kemampuan absurd/unik"
+  },
+  {
+    "id": 6,
+    "peringkat": "6",
+    "name": "Loli",
+    "description": "Jenius kecil yang bertarung pakai otak, bukan otot.",
+    "image": "../assets/lolly.jpg",
+    "power": "teknologi & gadget canggih"
+  },
+  {
+    "id": 7,
+    "peringkat": "7",
+    "name": "Lucky cyan",
+    "description": "Apa pun yang dia lakukan hampir selalu berakhir menguntungkan.",
+    "image": "../assets/luckycyan.jpg",
+    "power": "keberuntungan tingkat dewa"
+  },
+  {
+    "id": 8,
+    "peringkat": "8",
+    "name": "Ahu",
+    "description": "Anjing hero setia, makin dicintai makin kuat.",
+    "image": "../assets/Ahu.jpg",
+    "power": "kekuatan berbasis rasa syukur & kepercayaan"
+  },
+  {
+    "id": 9,
+    "peringkat": "9",
+    "name": "E Soul",
+    "description": "Hero cepat dengan serangan listrik mematikan.",
+    "image": "../assets/esoul.jpg",
+    "power": "listrik dan kecepatan super"
+  },
+  {
+    "id": 10,
+    "peringkat": "10",
+    "name": "Nice",
+    "description": "Hero populer, perannya penting tapi masih misterius.",
+    "image": "../assets/nice.jpg",
+    "power": "belum terungkap jelas"
   }
 ]
