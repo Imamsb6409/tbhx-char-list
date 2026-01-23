@@ -6,12 +6,7 @@ function Hero() {
       <img
         src={heroImg}
         alt="Hero"
-        className="
-          w-[90vw] max-w-5xl 
-          opacity-100
-          select-none
-        "
-      />
+        className=" w-[90vw] max-w-5xl  opacity-100  select-none  "/>
     </section>
   );
 }
