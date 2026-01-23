@@ -20,19 +20,18 @@ function CardItem({ card }) {
         width={250}
       />
       <div className="mx-2 mt-2">
-        <h1 className="text-2xl font-semibold">{card.name}</h1>
+        <h1 className="text-2xl font-semibold font-bungee">{card.name}</h1>
         <div className="types-container mt-2 mb-4">
           {card.types.map((item, index) => (
             <span
               key={index}
-              className="type-badge px-3 py-1 rounded-full text-white mr-2"
-              style={{ backgroundColor: colours[item.toLowerCase()] }}
+              className="type-badge px-3 py-1 rounded-full text-white mr-2 bg-red-500"
             >
               {item}
             </span>
           ))}
         </div>
-        <p className="description">{card.description}</p>
+        <p className="font-mono">{card.description}</p>
       </div>
     </div>
   );
