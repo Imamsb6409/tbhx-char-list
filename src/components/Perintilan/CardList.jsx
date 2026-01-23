@@ -18,7 +18,7 @@ function CardList() {
       <input
         type="text"
         placeholder="cari karakter..."
-        className="search"
+        className="search-input mb-8 px-4 py-2 border border-gray-300 rounded-md w-full max-w-md block mx-auto"
         onChange={handleSearch}
       />
       <div className="list-card flex justify-center gap-12 flex-wrap">
