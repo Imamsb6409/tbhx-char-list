@@ -5,10 +5,12 @@
     "name": "Hero X",
     "description": "Hero terkuat, bisa mengubah hukum dunia sesuka hati.",
     "image": "X.jpg",
+    "types": ["Grass", "Poison"],
     "power": "manipulasi realitas & dimensi"
   },
   {
     "id": 2,
+    "types": ["Grass", "Poison"],
     "peringkat": "2",
     "name": "Queen",
     "description": "Hero wanita karismatik dan aura kepemimpinannya sangat kuat.",
@@ -17,6 +19,7 @@
   },
   {
     "id": 3,
+    "types": ["Grass", "Poison"],
     "peringkat": "3",
     "name": "Dragon Boy",
     "description": "Petarung frontal yang mengandalkan kekuatan murni.",
@@ -25,6 +28,7 @@
   },
   {
     "id": 4,
+    "types": ["Grass", "Poison"],
     "peringkat": "4",
     "name": "Ghost Blade",
     "description": "Hero dingin dan misterius, spesialis duel jarak dekat.",
@@ -33,6 +37,7 @@
   },
   {
     "id": 5,
+    "types": ["Grass", "Poison"],
     "peringkat": "5",
     "name": "The Johnnies",
     "description": "Duo hero komedi dengan kekuatan tak terduga.",
@@ -41,6 +46,7 @@
   },
   {
     "id": 6,
+    "types": ["Grass", "Poison"],
     "peringkat": "6",
     "name": "Loli",
     "description": "Jenius kecil yang bertarung pakai otak, bukan otot.",
@@ -49,6 +55,7 @@
   },
   {
     "id": 7,
+    "types": ["Grass", "Poison"],
     "peringkat": "7",
     "name": "Lucky cyan",
     "description": "Apa pun yang dia lakukan hampir selalu berakhir menguntungkan.",
@@ -57,6 +64,7 @@
   },
   {
     "id": 8,
+    "types": ["Grass", "Poison"],
     "peringkat": "8",
     "name": "Ahu",
     "description": "Anjing hero setia, makin dicintai makin kuat.",
@@ -65,6 +73,7 @@
   },
   {
     "id": 9,
+    "types": ["Grass", "Poison"],
     "peringkat": "9",
     "name": "E Soul",
     "description": "Hero cepat dengan serangan listrik mematikan.",
@@ -73,6 +82,7 @@
   },
   {
     "id": 10,
+    "types": ["Grass", "Poison"],
     "peringkat": "10",
     "name": "Nice",
     "description": "Hero populer, perannya penting tapi masih misterius.",

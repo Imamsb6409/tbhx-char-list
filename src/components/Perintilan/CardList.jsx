@@ -21,16 +21,12 @@ function CardList() {
         className="search"
         onChange={handleSearch}
       />
-      <div className="list-card">
-        <div className="list-card">
-          {filterCards.length === 0 ? (
-            <div>data tidak ditemukan</div>
-          ) : (
-            filterCards.map((item) => (
-              <CardItem key={item.id} card={item} />
-            ))
-          )}
-        </div>
+      <div className="list-card flex justify-center gap-12 flex-wrap">
+        {filterCards.length === 0 ? (
+          <div>data tidak ditemukan</div>
+        ) : (
+          filterCards.map((item) => <CardItem key={item.id} card={item} />)
+        )}
       </div>
     </>
   );
