@@ -88,5 +88,14 @@
     "description": "Hero serba bisa dengan kekuatan yang masih misterius, tapi perannya penting.",
     "image": "nice.jpg",
     "power": "belum terungkap jelas"
+  },
+  {
+    "id": 10,
+    "types": ["Balanced", "Unknown"],
+    "peringkat": "10",
+    "name": "lin LIng",
+    "description": "Hero serba bisa dengan kekuatan yang masih misterius, tapi perannya penting.",
+    "image": "Ling.jpg",
+    "power": "belum terungkap jelas"
   }
 ]
