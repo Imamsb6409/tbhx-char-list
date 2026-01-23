@@ -4,7 +4,6 @@ import CardList from '../Perintilan/CardList';
 function Hero() {
   return (
     <section className="">
-        
  <CardList />
     </section>
   );
